@@ -1,7 +1,7 @@
 # LEAP: Zone-Aware MCTS for LLM Self-Speculative Decoding
 
-# Introduction
-
+**Introduction**
+-----
 SWIFT is an **on-the-fly self-speculative decoding** algorithm that adaptively selects intermediate layers of LLMs to skip during inference. This method **does not require auxiliary models or additional training**, making it a *plug-and-play* and *cost-effective* solution for accelerating LLM inference.
 
 SWIFT divides LLM inference into two distinct phases:
