@@ -17,4 +17,8 @@ During the MCTS-guided acceleration stage, MCTS adaptively selects group-level a
   <img src="assets/leap.png" width="95%">
 </p>
 
-****
+**Code Release Status**
+
+This repository is currently under active cleanup. At this stage, we release several core Python files that implement the main components of LEAP, including initialization stage and MCTS.
+
+A complete runnable pipeline and usage instructions will be released in future.
