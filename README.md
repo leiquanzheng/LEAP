@@ -14,5 +14,5 @@ During the initialization stage, LEAP computes redundancy signals from intermedi
 During the acceleration stage, LEAP formulates draft model construction as a sequential decision-making problem. MCTS adaptively selects group-level actions, including **execute**, **skip**, and **repeat**, and evaluates each candidate configuration through real-time speculative decoding feedback. The best-performing configuration is then fixed to accelerate the remaining decoding process.
 
 <p align="center">
-  <img src="assets/leap_overview.png" width="95%">
+  <img src="assets/leap.png" width="95%">
 </p>
